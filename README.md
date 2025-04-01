@@ -1,4 +1,3 @@
-# Gerenciamento-de-projeto
 <h1 align="center"> Gerenciamento de Projeto de Software </h1>
 
 ## Objetivo:
